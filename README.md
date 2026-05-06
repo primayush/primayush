@@ -12,7 +12,7 @@ I am AYUSH KUMAR , || AIML Engineering Student ||<br>4th Semester AIML Engineeri
 ![](https://streak-stats.demolab.com/?user=primayush&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=primayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Remember
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
